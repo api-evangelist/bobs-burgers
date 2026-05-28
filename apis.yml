@@ -1,0 +1,32 @@
+aid: bobs-burgers
+name: Bob's Burgers
+description: "Bob's Burgers API"
+url: https://bobs-burgers-api-ui.herokuapp.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: Bob's Burgers
+    description: "Bob's Burgers API"
+    humanURL: https://bobs-burgers-api-ui.herokuapp.com
+    baseURL: https://bobs-burgers-api-ui.herokuapp.com
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://bobs-burgers-api-ui.herokuapp.com
+common:
+  - type: Website
+    url: https://bobs-burgers-api-ui.herokuapp.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
