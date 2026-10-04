@@ -39,7 +39,6 @@ apis:
   - name: Bob's Burgers
     description: "Bob's Burgers API"
     humanURL: https://bobs-burgers-api-ui.herokuapp.com
-    baseURL: https://bobs-burgers-api-ui.herokuapp.com
     tags:
       - Video
     properties:
