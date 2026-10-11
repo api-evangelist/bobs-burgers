@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "bobs-burgers",
+    "captured_at": "2026-10-11T183903",
+    "source_url": "https://bobs-burgers-api-ui.herokuapp.com",
+    "source_type": "Website",
+    "file": "bobs-burgers-2026-10-11T183903.png",
+    "bytes": 17260,
+    "capture": "playwright-local"
+  }
+]
